@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 My name is Alvin Alvrahesta, and I'm a passionate software developer based in Indonesia.
-I blend aesthetic sensibilities with technical prowess to create reliable and high-performance applications.
+I blend aesthetic sensibilities with technical expertise to create reliable and high-performance applications.
 
 ## About Me
 
@@ -11,8 +11,8 @@ I blend aesthetic sensibilities with technical prowess to create reliable and hi
 
 ## Skills
 
-- **Programming Languages:** PHP, Little Javascript, PowerScript.
-- **Frameworks & Tools:** Powerbuilder (Desktop App), Laravel, Tailwind, Bootstrap.
+- **Programming Languages:** PHP, Javascript, PowerScript.
+- **Frameworks & Tools:** Powerbuilder (Desktop App - PowerScript), Laravel (Web - PHP), Tailwind, Bootstrap.
 - **Database:** Oracle, MySQL
 - **UI/UX Design:** Figma, Photoshop
 
@@ -25,7 +25,7 @@ I blend aesthetic sensibilities with technical prowess to create reliable and hi
 
 - 📧 **Email:** alvin.alvrahesta@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/alvin-alvrahesta](https://www.linkedin.com/in/alvin-alvrahesta/)
-- 🌐 **Website/Blog:** [https://alvinalvrahesta.github.io](https://alvinalvrahesta.github.io)
+- 🌐 **Website:** [https://alvinalvrahesta.github.io](https://alvinalvrahesta.github.io)
 
 ## Let's Collaborate!
 
