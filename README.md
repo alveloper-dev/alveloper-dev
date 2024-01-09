@@ -18,8 +18,8 @@ I blend aesthetic sensibilities with technical expertise to create reliable and 
 
 ## Projects
 
-- **Project 1:** [Landing Page: Sariraya Co. Ltd. (Team Project)](https://sariraya.com)
-- **Project 2:** [Website for Scholarship Registration in Sariraya Co. Ltd.](https://beasiswa.sariraya.com)
+- **Project 1:** [Landing Page of Sariraya Co. Ltd. (Team Project)](https://sariraya.com)
+- **Project 2:** [Sariraya Co. Ltd. Scholarship Registration](https://beasiswa.sariraya.com)
 
 ## Connect with Me
 
