@@ -1,33 +1,31 @@
-# Hi there! 👋
+# Halo! 👋
 
-My name is Alvin Alvrahesta, and I'm a passionate software developer based in Indonesia.
-I blend aesthetic sensibilities with technical expertise to create reliable applications.
+Perkenalkan, saya **Alvin Alvrahesta**, seorang software developer dari Indonesia. Saya fokus pada pengembangan aplikasi web, desktop, dan mobile, dengan pengalaman menggunakan Laravel, PowerBuilder, serta Flutter. Saya senang menggabungkan desain yang menarik dengan fungsi yang solid untuk menciptakan aplikasi yang andal dan mudah digunakan.
 
-## About Me
+## Tentang Saya
 
-- 💻 I specialize in UI design and web full-stack development.
-- 🌐 Currently working on Software Development.
-- 🚀 Actively learning and exploring new technologies.
+- 💻 Memiliki kepekaan visual dan ketertarikan kuat dalam menciptakan antarmuka (UI) yang estetis dan intuitif.  
+- 🌐 Sedang aktif belajar dan mendalami Flutter untuk pengembangan aplikasi mobile.  
+- 🚀 Terus mengeksplorasi pengembangan sistem berbasis web dan mobile menggunakan berbagai teknologi terkini.
 
-## Skills
+## Keahlian
 
-- **Programming Languages:** PHP, Javascript, PowerScript.
-- **Frameworks & Tools:** Powerbuilder (Desktop App - PowerScript), Laravel (Web - PHP), Tailwind, Bootstrap.
-- **Database:** Oracle, MySQL.
-- **UI/UX Design & Graphic Design:** Figma, Photoshop.
+- **Bahasa Pemrograman:** PHP, Javascript, PowerScript.  
+- **Framework & Tools:** PowerBuilder (Aplikasi Desktop - PowerScript), Laravel (Web - PHP), Tailwind, Bootstrap.  
+- **Database:** Oracle, MySQL.  
+- **Desain UI/UX & Desain Grafis:** Figma, Photoshop.
 
-## Projects
+## Proyek
 
-- **Project 1:** [Landing Page of Sariraya Co. Ltd. (Team Project)](https://sariraya.com)
-- **Project 2:** [Sariraya Co. Ltd. Scholarship Registration](https://beasiswa.sariraya.com)
+- **Proyek 1:** [Landing Page Sariraya Co. Ltd. (Proyek Tim)](https://sariraya.com)  
+- **Proyek 2:** [Formulir Pendaftaran Beasiswa Sariraya Co. Ltd.](https://beasiswa.sariraya.com)
 
-## Connect with Me
+## Terhubung dengan Saya
 
-- 📧 **Email:** alvin.alvrahesta@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/alvin-alvrahesta](https://www.linkedin.com/in/alvin-alvrahesta/)
+- 📧 **Email:** alvin.alvrahesta@gmail.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/alvin-alvrahesta](https://www.linkedin.com/in/alvin-alvrahesta/)  
 - 🌐 **Website:** [https://alvinalvrahesta.github.io](https://alvinalvrahesta.github.io)
 
-## Let's Collaborate!
+## Mari Berkolaborasi!
 
-I'm always open to collaboration and exploring new opportunities. Feel free to reach out if you share a passion for technology, coding, or innovative solutions. Let's build something amazing together! 🚀
-
+Saya selalu terbuka untuk kolaborasi dan kesempatan baru. Jangan ragu untuk menghubungi saya jika Anda memiliki minat yang sama dalam teknologi, pemrograman, atau solusi inovatif. Mari kita bangun sesuatu yang luar biasa bersama! 🚀
